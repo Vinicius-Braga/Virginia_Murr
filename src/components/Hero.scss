@@ -1,0 +1,56 @@
+@import "../variables";
+
+.hero {
+    background-image: url(../assets/terapeuta-va-a-terapia-protada-3804x1902.png);
+    background-size: cover;
+    background-position: center top;
+    border-bottom: 10px inset $color-primary;
+    border-radius: 0;
+    overflow: hidden;
+    height: 600px;
+    padding-top: 50px;
+}
+
+.hero_itens {
+    padding-top: 60px;
+}
+
+.hero_logo {
+    width: 500px;
+}
+
+.icon_hero {
+    font-size: 30px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+@media (max-width: 765px) {
+    .hero {
+        padding-top: 100px;
+    }
+}
+
+@media (max-width: 990px) {
+    .hero_logo {
+        width: 300px;
+    }
+}
+
+@media (min-width: 991px) {
+    .hero {
+        height: 720px;
+    }
+
+    .hero_itens {
+        padding-top: 60px;
+        align-items: center;
+        margin-left: 200px;
+    }
+
+    .icon_hero {
+        margin-left: 22px;
+        margin-right: 0;
+    }
+}

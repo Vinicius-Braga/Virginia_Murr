@@ -1,0 +1,86 @@
+@import "../variables";
+
+a {
+    text-decoration: none;
+}
+
+.navigation {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.navbar {
+    background-color: $color-primary;
+    font-weight: bold;
+    transition: all ease 0.3s;
+}
+
+.logo {
+    width: 60px;
+    margin-right: 10px;
+}
+
+.name {
+    font-family: $font-title;
+}
+
+.nav_objects {
+    width: 100%;
+    text-align: center;
+}
+
+.nav_button {
+    background-color: white;
+    border-radius: 15px;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 25%;
+    padding: 5px;
+    transition: 0.3s;
+    width: 50%;
+}
+
+.nav_button:hover {
+    background: transparent;
+    color: #ffff;
+    transition: 0.3s;
+}
+
+@media (min-width: 768px) {
+    .nav {
+        margin: auto;
+    }
+
+    .nav_objects {
+        margin-right: 20px;
+    }
+
+    .nav_objects:hover {
+        margin-right: 20px;
+        color: #ffff;
+        border-bottom: 1px solid #ffff;
+    }
+
+    .nav_objects:active {
+        margin-right: 20px;
+        color: #ffff;
+        border-bottom: 1px solid #ffff;
+    }
+}
+
+@media (min-width: 991px) {
+    .navbar {
+        background-color: transparent;
+    }
+
+    .activateColor {
+        background-color: $color-primary;
+        transition: 0.4s;
+    }
+
+    .nav_button {
+        width: 100%;
+    }
+}

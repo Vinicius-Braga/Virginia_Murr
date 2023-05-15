@@ -1,0 +1,37 @@
+@import "../variables";
+
+.gallery {
+    background-color: $color-primary;
+    height: 2500px;
+}
+
+.gallery_title {
+    margin: auto;
+    height: 120px;
+    margin-top: 50px;
+    width: 250px;
+    color: #ffff;
+    text-align: center;
+    font-family: $font_title;
+    border-bottom: 2px inset #ffff;
+}
+
+.insta_post {
+    margin-top: 10px;
+}
+
+.insta_img {
+    height: 400px;
+}
+
+@media (max-width: 990px) {
+    .gallery {
+        height: 4950px;
+    }
+}
+
+@media (max-width: 575px) {
+    .gallery {
+        height: 6800px;
+    }
+}

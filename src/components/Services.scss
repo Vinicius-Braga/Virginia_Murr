@@ -1,0 +1,62 @@
+@import "../variables";
+
+.services {
+    height: 1300px;
+    margin-top: 30px;
+    font-family: $font_body;
+    color: rgb(90, 90, 90);
+}
+
+.services_title {
+    margin: auto;
+    height: 120px;
+    width: 250px;
+    text-align: center;
+    font-family: $font_title;
+    border-bottom: 2px inset $color-primary;
+}
+
+.adult_terapy_image {
+    width: 80%;
+    border-radius: 10px;
+}
+
+.service_button {
+    width: 30%;
+    margin-left: 10px;
+    background-color: rgb(181, 176, 176);
+    border-radius: 15px;
+    border: 0;
+    padding: 5px;
+    transition: 0.3s;
+}
+
+.service_button:hover {
+    background-color: rgb(238, 234, 234);
+    color: #000000;
+    transition: 0.3s;
+}
+
+@media (max-width: 991px) {
+    .services {
+        text-align: center;
+        height: 2400px;
+    }
+
+    .service {
+        border-bottom: 2px inset $color-primary;
+    }
+
+    .service_name {
+        padding-bottom: 10px;
+    }
+
+    .service_button {
+        margin: auto;
+        margin-bottom: 50px;
+    }
+
+    .adult_terapy_image {
+        margin-bottom: 50px;
+    }
+}

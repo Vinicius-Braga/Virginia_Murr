@@ -1,0 +1,52 @@
+@import "../variables";
+
+.foto {
+    border-radius: 10px;
+    border-style: inset;
+    border-width: 2px;
+    border-color: black;
+    width: 100%;
+    height: 330px;
+    text-align: center;
+}
+
+.about {
+    font-family: $font_body;
+    color: rgb(90, 90, 90);
+}
+
+.about_title {
+    margin: auto;
+    height: 100px;
+    width: 150px;
+    text-align: center;
+    font-family: $font_title;
+    border-bottom: 2px inset $color-primary;
+}
+
+.about_description {
+    background-color: rgb(247, 247, 247);
+    border-radius: 10px;
+    font-size: 17px;
+    text-align: center;
+    height: 530px;
+}
+
+.ft {
+    margin-top: 8rem;
+}
+
+@media (min-width: 769px) {
+    .foto {
+        margin-top: 50px;
+    }
+
+    .about_title {
+        height: 130px;
+        width: 170px;
+    }
+
+    .about_description {
+        height: 330px;
+    }
+}
