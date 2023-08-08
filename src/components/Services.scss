@@ -16,6 +16,11 @@
     border-bottom: 2px inset $color-primary;
 }
 
+.service_name {
+    padding-bottom: 5px;
+    color: rgb(63, 63, 63);
+}
+
 .adult_terapy_image {
     width: 80%;
     border-radius: 10px;
@@ -23,7 +28,6 @@
 
 .service_button {
     width: 30%;
-    margin-left: 10px;
     background-color: rgb(181, 176, 176);
     border-radius: 15px;
     border: 0;

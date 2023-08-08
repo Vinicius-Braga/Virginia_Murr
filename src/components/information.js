@@ -7,19 +7,14 @@ function Information() {
         <div className="information">
             <Container>
                 <Row>
-                    <Col xs={12} lg={4}>
+                    <Col xs={12} lg={6}>
                         <span className="information_title">+5000</span> <br />
                         pacientes atendidos
                     </Col>
-                    <Col xs={12} lg={4} className="information_colum">
-                        <span className="information_title">15</span>
+                    <Col xs={12} lg={6} className="information_colum">
+                        <span className="information_title">+30</span>
                         <br />
                         anos de psicologia
-                    </Col>
-                    <Col xs={12} lg={4} className="information_colum">
-                        <span className="information_title">5</span>
-                        <br />
-                        cursos completos
                     </Col>
                 </Row>
             </Container>

@@ -21,12 +21,8 @@ function Services() {
                         </Row>
                         <Row>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                                the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of
-                                type and scrambled it to make a type specimen book. It has survived not only five centuries, but
-                                also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in
-                                the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently
-                                with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                Qualquer pessoa está sujeita a viver situações de conflitos e sentimentos perturbadores, que geram questionamentos e/ou sofrimento emocional. Logo o processo terapêutico, promove um movimento de questionamentos, análises e reflexões na intenção de transformar e reconstruir sentidos para mudar o olhar e a percepção do paciente, auxiliando a buscar novas maneiras de enxergar sua realidade e formas mais saudáveis de se posicionar diante de conflitos, problemas e situações de vida. 
+
                             </p>
                         </Row>
                         <Row>
@@ -51,12 +47,7 @@ function Services() {
                         </Row>
                         <Row>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                                the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of
-                                type and scrambled it to make a type specimen book. It has survived not only five centuries, but
-                                also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in
-                                the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently
-                                with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                Mesmo sendo uma das mais belas fases da vida, na infância podem surgir dificuldades emocionais que se contrapõem ao desenvolvimento natural. É uma fase do desenvolvimento e maturação neurocognitiva  de grande importância, dada as janelas de oportunidade cerebrais que se encontram bem sensíveis e “abertas”, segundo Adriana Fóz, neuropsicóloga e diretora clínica da Unidade Integrativa Santa Mônica. É preciso ficar atento, procurar informações sérias e confiáveis e se dificuldades e dúvidas persistirem, procurar ajuda e orientação é salutar. Nesses casos, a terapia infantil pode auxiliar a criança a superar seus problemas, além de direcionar os pais ao melhor modo de lidar com essas situações.
                             </p>
                         </Row>
                         <Row>
@@ -75,12 +66,7 @@ function Services() {
                         </Row>
                         <Row>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                                the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of
-                                type and scrambled it to make a type specimen book. It has survived not only five centuries, but
-                                also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in
-                                the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently
-                                with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                            Muitas pessoas relutam em admitir quando têm problemas, sejam eles profissionais, familiares, questões internas ou conjugais.Esse comportamento de negar um problema acaba causando impactos negativos, principalmente quando os conflitos envolvem uma segunda pessoa. Isso acontece porque um relacionamento a dois é muito complexo: saber qual é a sua parcela de contribuição para o surgimento e desenvolvimento desses conflitos, entender que nem tudo acontece da maneira que você planeja, respeitar o espaço e as limitações do outro e aprender a equilibrar as ações, sabendo a hora certa de ceder e de se valorizar são alguns dos muitos detalhes que fazem a diferença na construção de uma relação conjugal.
                             </p>
                         </Row>
                         <Row>
